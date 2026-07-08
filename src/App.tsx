@@ -1,10 +1,11 @@
 import './App.css'
+import SingUp from './pages/SignUp'
 
 function App() {
 
   return (
     <>
-      <h1 className='text-xl'>Hello World</h1>
+      <SingUp />
     </>
   )
 }
